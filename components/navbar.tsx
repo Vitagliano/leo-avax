@@ -41,11 +41,11 @@ export default function Navbar() {
                             <div className="absolute bottom-4">
                                 <div className="flex gap-6 flex-row items-center mb-6">
                                     <Link className="hover:scale-125  transition-all ease-in-out"
-                                          href="#">
+                                          href="https://dexscreener.com/avalanche/0x04f388E30BfD03f357AE061ec5680c7e4ac4cF09">
                                         <Image alt="Dexscreener" src={"dexscreener.svg"} width={20} height={20}/>
                                     </Link>
                                     <Link className="hover:scale-125  transition-all ease-in-out"
-                                          href="#">
+                                          href="https://twitter.com/LeoCoinAvax">
                                         <Image alt="X (Twitter)" src={"x.svg"} width={20} height={20}/>
                                     </Link>
                                     <Link className="hover:scale-125  transition-all ease-in-out"
@@ -78,11 +78,11 @@ export default function Navbar() {
                         </Link>
                         <div className="flex gap-4 flex-row items-center">
                             <Link className="hover:scale-125  transition-all ease-in-out"
-                                  href="#">
+                                  href="https://dexscreener.com/avalanche/0x04f388E30BfD03f357AE061ec5680c7e4ac4cF09">
                                 <Image alt="Dexscreener" src={"dexscreener.svg"} width={18} height={18}/>
                             </Link>
                             <Link className="hover:scale-125  transition-all ease-in-out"
-                                  href="#">
+                                  href="https://twitter.com/LeoCoinAvax">
                                 <Image alt="X (Twitter)" src={"x.svg"} width={18} height={18}/>
                             </Link>
                             <Link className="hover:scale-125  transition-all ease-in-out"
